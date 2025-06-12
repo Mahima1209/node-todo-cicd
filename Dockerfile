@@ -1,8 +1,8 @@
 # Node Base Image
-FROM node:18-alpine
+FROM node:12.2.0-alpine
 
 #Working Directry
-WORKDIR app
+WORKDIR /node
 
 #Copy the Code
 COPY . .
