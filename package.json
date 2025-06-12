@@ -22,10 +22,3 @@
     "supertest": "^4.0.2"
   }
 }
-"overrides": {
-  "mkdirp": "^1.0.4",
-  "uuid": "^9.0.0",
-  "formidable": "^3.5.0",
-  "debug": "^4.3.4",
-  "superagent": "^8.0.0"
-}
